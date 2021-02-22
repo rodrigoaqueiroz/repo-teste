@@ -1,0 +1,34 @@
+div {
+    text-align: center;
+}
+
+div:nth-child(odd) {
+    font-style: italic;
+}
+
+div:hover {
+    border: black solid;
+}
+
+.primaria {
+    background: green;
+}
+
+.secundaria {
+    background: blue;
+}
+
+.complementar {
+    background: yellow;
+    height: 6.8em;
+}
+
+.escura { 
+    background: brown;
+}
+
+.clara {
+    background: #f9f9f9;
+}
+
+

@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+}
+img {
+    width: 400px;
+    padding: 20px
+}
+
+.mario {
+    padding-bottom: 0px;
+}
+
+.goomba {
+    padding-top: 0px;
+    float: left
+}
+
+.bowser {
+    position: absolute;
+    top: 550px;
+    left: 900px;
+    width: 300px
+}
+
+.baloon {
+    position: absolute;
+    top: 430px;
+    left: 500px;
+    z-index: 1;
+}
+
+.word {
+    position: absolute;
+    top: 525px;
+    left: 590px;
+    z-index: 2;
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    color: red
+}
